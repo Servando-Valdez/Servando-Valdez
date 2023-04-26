@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <div align="justify">
-
 My name is Servando Valdez, I am 22 years old from Sonora, México 
 
 I'm a software developer with experience in desing and develoment of  web systems. I have ability to optimitize work process to improve the company's workflow efficiency. 
@@ -14,20 +13,20 @@ You can reach out to me through linkedin:
 [![Linkedin badge](https://img.shields.io/badge/-Servando-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/servando-angel-valdez-barreras-435b69254/)
 
 
-### 💻 Technologies
+### 💻 <span style="color:white;font-size:25px;">Technologies</span>
 
 
 
-#### Languages
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Languages)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-1498FA?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black&color=F7DF1C)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 
-#### Frameworks
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Frameworks)](https://git.io/typing-svg)
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express-9DA6AD?logo=express&logoColor=white)
@@ -38,15 +37,15 @@ You can reach out to me through linkedin:
 
 
 
-#### Databases
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Databases)](https://git.io/typing-svg)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-316192?logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13A822?logo=mongodb&logoColor=white)
 
 
-#### Tools
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Tools)](https://git.io/typing-svg)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
