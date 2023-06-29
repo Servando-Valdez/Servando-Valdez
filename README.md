@@ -10,7 +10,7 @@ I am looking for opportunities that allow me to expand my knowledge and experien
 
 You can reach out to me through linkedin:
 
-[![Linkedin badge](https://img.shields.io/badge/-Servando-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/servando-angel-valdez-barreras-435b69254/)
+[![Linkedin badge](https://img.shields.io/badge/-Servando-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/servando-valdez-435b69254/)
 
 
 ### 💻 <span style="color:white;font-size:25px;">Technologies</span>
