@@ -34,6 +34,7 @@ You can reach out to me through linkedin:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-white?logo=react&logoColor=blue)
+![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 
 
 
