@@ -40,7 +40,7 @@ You can reach out to me through linkedin:
 
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Databases)](https://git.io/typing-svg)
 
-![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13A822?logo=mongodb&logoColor=white)
