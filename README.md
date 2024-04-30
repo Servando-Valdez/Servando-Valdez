@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div align="justify">
-My name is Servando Valdez, I am 22 years old from Sonora, México 
+My name is Servando Valdez, I am 23 years old from Sonora, México 
 
-I'm a software developer with experience in desing and develoment of  web systems. I have ability to optimitize work process to improve the company's workflow efficiency. 
+I'm a Software Developer with experience in desing and develoment of  web systems. I have ability to optimitize work process to improve the company's workflow efficiency. 
 My passion for software development goes beyond just writing code. I am always looking for ways to improve my skills and stay current with the latest trends and best practices in the industry.
 
 I am looking for opportunities that allow me to expand my knowledge and experience in the work field. My main interest lies in problem solving through the use of software and technological tools. Therefore, I am constantly looking for projects and challenges that allow me to further develop my skills and knowledge in this area.
