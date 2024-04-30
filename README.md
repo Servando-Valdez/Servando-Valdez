@@ -29,14 +29,13 @@ You can reach out to me through linkedin:
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Frameworks)](https://git.io/typing-svg)
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 ![ExpressJS](https://img.shields.io/badge/Express-9DA6AD?logo=express&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=ffffff&style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-white?logo=react&logoColor=blue)
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
-
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0F172A?&logo=tailwindcss)
 
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Databases)](https://git.io/typing-svg)
 
