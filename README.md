@@ -22,7 +22,7 @@ You can reach out to me through linkedin:
 ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-1498FA?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black&color=F7DF1C)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 
