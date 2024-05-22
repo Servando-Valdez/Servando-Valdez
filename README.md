@@ -28,7 +28,8 @@ You can reach out to me through linkedin:
 
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Frameworks)](https://git.io/typing-svg)
 
-![Django](https://img.shields.io/badge/Django-1ea06e?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-1ea06e?logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express-9DA6AD?logo=express&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=ffffff&style=flat)
@@ -48,11 +49,11 @@ You can reach out to me through linkedin:
 
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Tools)](https://git.io/typing-svg)
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-1572B6?logo=yarn&logoColor=white)
 
 
