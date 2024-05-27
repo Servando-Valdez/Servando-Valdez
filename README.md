@@ -46,6 +46,11 @@ You can reach out to me through linkedin:
 ![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13A822?logo=mongodb&logoColor=white)
 
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Hosting/SaaS)](https://git.io/typing-svg)
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white)
 
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=F7F7F7&repeat=false&width=435&lines=Tools)](https://git.io/typing-svg)
 
