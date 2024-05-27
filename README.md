@@ -58,6 +58,7 @@ You can reach out to me through linkedin:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-1572B6?logo=yarn&logoColor=white)
